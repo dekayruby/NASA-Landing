@@ -1,0 +1,10 @@
+header {
+    background-image: url(space.jpg);
+    height: 100%;
+    width: 100%;
+    color: white;
+    font-size: 100pt;
+    display: flex;
+    justify-content: center;
+    
+}
